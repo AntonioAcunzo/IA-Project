@@ -5,7 +5,7 @@ Il codice è ampiamente commentato, così da renderlo più leggibile ad un possi
 
 ## Guida all'utilizzo del programma
 1. Procurarsi un dataset che sia in formato csv o txt ed inserirlo nella cartella del programma. È necessario modificare la variabile file_name all'inizio del file Main.py, inserendo il nome del database scelto. In alternativa utilizzare uno dei tre dataset già presenti nella cartella su cui sono stati effettuati gli esperimenti. 
-2. È necessario inserire il numero di prove da effettuare modificando la variabile numTests all'inizio del file Main.py. Di default il numero di prove da eseguire sono 3.
+2. Opzionale: inserire il numero di prove da effettuare modificando la variabile numTests all'inizio del file Main.py. Di default verranno eseguite 3 prove.
 3. Eseguire il file Main.py che terminerà con la stampa dei test eseguiti a video e la visualizzazione di un instogramma.
 
 Alcune osservazioni necessarie al funzionamento:
