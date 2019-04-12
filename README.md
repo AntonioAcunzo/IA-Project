@@ -13,6 +13,5 @@ Il codice è ampiamente commentato, così da renderlo più leggibile ad un possi
 Alcune osservazioni necessarie al funzionamento:
 + La prima riga del database deve contenere la lista degli attributi seguiti dal target, separati da una virgola.
 + Il target del dataset scelto deve essere un attributo di tipo booleano.
-+ Il dataset non deve contenere attributi con dati mancanti.
 
 Per maggiori informazioni consultare la relazione associata.
